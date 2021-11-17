@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **vulnerability fivem**
 
-- 📫 How to reach me **Purple.Lua#1095**
+- 📫 How to reach me **On Discord ;)**
 
 - 📝 **I often leak how bypass anticheat & How detect cheater ;)**
 
