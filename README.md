@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Purple</h1>
-<h3 align="center">I'm a Sexy Developer !</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x-purple&label=Profile%20views&color=0e75b6&style=flat" alt="x-purple" /> </p>
-
-- 🔭 I’m currently working on **FiveM Executor & Anticheats Fivem**
-
-- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/x-Purple](https://github.com/x-Purple)
 
